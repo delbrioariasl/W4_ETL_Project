@@ -14,9 +14,11 @@ Y la Zambia la siguiente:
 
 ### Segunda fuente: Eurosports: 
 https://www.eurosport.es/futbol/mundial-femenino/2023/live-espana-zambia_mtc1402985/live.shtml
-De la segunda fuente pude sacar la información estadistica del partido para crear tablas como la siguiente: ![Foto](Imagenes/stats.png)
+De la segunda fuente pude sacar la información estadistica del partido para crear tablas como la siguiente: 
+![Foto](Imagenes/stats.png)
 
-Los datos en la pagina web se ven de la siguiente manera: ![Foto](Imagenes/estadisticas.png)
+Los datos en la pagina web se ven de la siguiente manera: 
+![Foto](Imagenes/estadisticas.png)
 Para verlos bien y obtener la tabla deseada tuve que scrapear los datos, separarlos en distintas columnas al estar todas las filas metidas como dato unico, limpiar los datos, reordenarlos y guardar la tabla en un csv.
 
 ## Segundo metodo: CSV de Kaggle
@@ -31,4 +33,4 @@ Los resultados de esto han dejado ver que este era el primer partido de competic
 
 ## Hacer la Base de Datos:
 Tras tener toda la información y haberla importado a documentos csv para archivarla, procedí a crear la base de datos en sql con la siguiente estructura para despues insertar los datos y acabar el proyecto:
-![Foto](SQL_database/Modelo entidad relación.png)
+![Foto](https://github.com/delbrioariasl/W4_ETL_Project/blob/main/SQL_database/Modelo%20entidad%20relaci%C3%B3n.png)
