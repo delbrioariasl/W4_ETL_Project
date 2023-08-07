@@ -1,0 +1,193 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1985-04-27,Hungary,Spain,1,0,UEFA Euro qualification,Hungary,Hungary,False
+1985-06-25,Spain,Switzerland,0,2,UEFA Euro qualification,Cuenca,Spain,False
+1985-11-03,Spain,Italy,2,3,UEFA Euro qualification,Palma,Spain,False
+1986-04-05,Spain,Hungary,1,2,UEFA Euro qualification,Spain,Spain,False
+1986-06-10,Switzerland,Spain,0,3,UEFA Euro qualification,Solothurn,Switzerland,False
+1986-10-11,Italy,Spain,1,1,UEFA Euro qualification,Modena,Italy,False
+1987-10-11,Bulgaria,Spain,1,1,UEFA Euro qualification,Sofia,Bulgaria,False
+1987-11-08,Czechoslovakia,Spain,1,0,UEFA Euro qualification,Czechoslovakia,Czechoslovakia,False
+1987-12-19,Spain,Belgium,1,0,UEFA Euro qualification,Aranjuez,Spain,False
+1988-03-06,Spain,France,1,3,UEFA Euro qualification,Palma del Río,Spain,False
+1988-03-20,Spain,Bulgaria,1,0,UEFA Euro qualification,Torrent,Spain,False
+1988-04-24,France,Spain,0,0,UEFA Euro qualification,Castelsarrasin,France,False
+1988-05-14,Spain,Czechoslovakia,0,2,UEFA Euro qualification,Figueres,Spain,False
+1988-10-29,Belgium,Spain,1,0,UEFA Euro qualification,Antwerp,Belgium,False
+1989-11-04,Spain,Switzerland,0,0,UEFA Euro qualification,Benicàssim,Spain,False
+1989-11-25,Spain,Denmark,1,3,UEFA Euro qualification,Antequera,Spain,False
+1990-02-10,Italy,Spain,3,1,UEFA Euro qualification,Portici,Italy,False
+1990-05-02,Switzerland,Spain,2,1,UEFA Euro qualification,Binningen,Switzerland,False
+1990-06-13,Denmark,Spain,5,0,UEFA Euro qualification,Vejle,Denmark,False
+1990-10-21,Spain,Italy,0,0,UEFA Euro qualification,Cartagena,Spain,False
+1991-10-23,Spain,Sweden,0,4,UEFA Euro qualification,Palencia,Spain,False
+1991-12-08,Spain,Republic of Ireland,0,1,UEFA Euro qualification,Lucena,Spain,False
+1992-03-22,Republic of Ireland,Spain,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,False
+1992-05-17,Sweden,Spain,1,1,UEFA Euro qualification,Borås,Sweden,False
+1993-10-30,Belgium,Spain,0,0,UEFA Euro qualification,Brussels,Belgium,False
+1993-12-12,Spain,England,0,0,UEFA Euro qualification,Osuna,Spain,False
+1994-02-20,England,Spain,0,0,UEFA Euro qualification,Bradford,England,False
+1994-03-20,Spain,Slovenia,17,0,UEFA Euro qualification,Spain,Spain,False
+1994-04-24,Spain,Belgium,4,0,UEFA Euro qualification,Tortosa,Spain,False
+1994-05-29,Slovenia,Spain,0,8,UEFA Euro qualification,Slovenia,Slovenia,False
+1994-11-05,South Africa,Zambia,5,3,African Championship,South Africa,South Africa,False
+1994-11-20,Zambia,South Africa,2,6,African Championship,Zambia,Zambia,False
+1995-11-19,Spain,Denmark,0,1,UEFA Euro qualification,Pozoblanco,Spain,False
+1996-03-31,Spain,Romania,5,1,UEFA Euro qualification,Castelló de la Plana,Spain,False
+1996-04-21,Denmark,Spain,2,0,UEFA Euro qualification,Hjørring,Denmark,False
+1996-05-01,Romania,Spain,2,2,UEFA Euro qualification,Câmpina,Romania,False
+1996-05-12,Sweden,Spain,1,1,UEFA Euro qualification,Visby,Sweden,False
+1996-06-02,Spain,Sweden,0,8,UEFA Euro qualification,Gandia,Spain,False
+1996-09-08,Spain,England,2,1,UEFA Euro qualification,Spain,Spain,False
+1996-09-29,England,Spain,1,1,UEFA Euro qualification,England,England,False
+1997-06-29,France,Spain,1,1,UEFA Euro,Karlskoga,Sweden,True
+1997-07-02,Sweden,Spain,1,0,UEFA Euro,Karlskoga,Sweden,False
+1997-07-05,Russia,Spain,0,1,UEFA Euro,Karlskoga,Sweden,True
+1997-07-09,Italy,Spain,2,1,UEFA Euro,Lillestrøm,Norway,True
+1999-11-07,Spain,Sweden,2,5,UEFA Euro qualification,Plasencia,Spain,False
+1999-11-27,France,Spain,1,0,UEFA Euro qualification,Martigues,France,False
+1999-12-12,Spain,Netherlands,1,1,UEFA Euro qualification,Córdoba,Spain,False
+2000-04-01,Netherlands,Spain,1,2,UEFA Euro qualification,Almelo,Netherlands,False
+2000-05-21,Spain,France,1,2,UEFA Euro qualification,Vilagarcía de Arousa,Spain,False
+2000-06-11,Sweden,Spain,7,0,UEFA Euro qualification,Karlskoga,Sweden,False
+2000-10-22,Spain,Denmark,1,6,UEFA Euro qualification,Burgos,Spain,False
+2000-11-21,Denmark,Spain,4,2,UEFA Euro qualification,Odense,Denmark,False
+2002-09-21,Zambia,South Africa,1,4,African Championship qualification,Lusaka,Zambia,False
+2002-10-12,South Africa,Zambia,4,0,African Championship qualification,Bloemfontein,South Africa,False
+2003-03-26,Netherlands,Spain,0,1,UEFA Euro qualification,Zwolle,Netherlands,False
+2003-11-16,Spain,Norway,0,2,UEFA Euro qualification,Las Rozas de Madrid,Spain,False
+2004-02-20,Belgium,Spain,2,0,UEFA Euro qualification,Mons,Belgium,False
+2004-02-29,Spain,Belgium,9,1,UEFA Euro qualification,Alginet,Spain,False
+2004-03-21,Spain,Netherlands,0,0,UEFA Euro qualification,La Roda,Spain,False
+2004-04-18,Spain,Denmark,0,1,UEFA Euro qualification,Lucena,Spain,False
+2004-05-22,Denmark,Spain,2,0,UEFA Euro qualification,Farum,Denmark,False
+2004-10-02,Norway,Spain,2,0,UEFA Euro qualification,Porsgrunn,Norway,False
+2006-03-11,DR Congo,Zambia,3,0,African Championship qualification,Lubumbashi,DR Congo,False
+2006-03-25,Zambia,DR Congo,2,3,African Championship qualification,Chingola,Zambia,False
+2007-05-30,Belarus,Spain,0,3,UEFA Euro qualification,Bobruisk,Belarus,False
+2007-10-27,Czech Republic,Spain,2,2,UEFA Euro qualification,Pilsen,Czech Republic,False
+2007-11-25,England,Spain,1,0,UEFA Euro qualification,Shrewsbury,England,False
+2008-02-16,Spain,Northern Ireland,4,0,UEFA Euro qualification,Aranda de Duero,Spain,False
+2008-05-03,Spain,Belarus,6,1,UEFA Euro qualification,Madrid,Spain,False
+2008-05-08,Spain,Czech Republic,4,1,UEFA Euro qualification,Madrid,Spain,False
+2008-05-28,Northern Ireland,Spain,0,3,UEFA Euro qualification,Newry,Northern Ireland,False
+2008-10-02,Spain,England,2,2,UEFA Euro qualification,Zamora,Spain,False
+2008-10-25,Spain,Netherlands,0,2,UEFA Euro qualification,Madrid,Spain,False
+2008-10-30,Netherlands,Spain,2,0,UEFA Euro qualification,Volendam,Netherlands,False
+2011-09-17,Turkey,Spain,1,10,UEFA Euro qualification,Istanbul,Turkey,False
+2011-10-23,Spain,Switzerland,3,2,UEFA Euro qualification,Madrid,Spain,False
+2011-10-27,Kazakhstan,Spain,0,4,UEFA Euro qualification,Shymkent,Kazakhstan,False
+2011-11-20,Romania,Spain,0,4,UEFA Euro qualification,Buftea,Romania,False
+2011-11-24,Spain,Germany,2,2,UEFA Euro qualification,Motril,Spain,False
+2012-01-14,Zambia,Malawi,7,0,African Championship qualification,Lusaka,Zambia,False
+2012-01-29,Malawi,Zambia,4,2,African Championship qualification,Blantyre,Malawi,False
+2012-03-31,Germany,Spain,5,0,UEFA Euro qualification,Mannheim,Germany,False
+2012-04-05,Spain,Kazakhstan,13,0,UEFA Euro qualification,Madrid,Spain,False
+2012-05-26,Zambia,South Africa,1,4,African Championship qualification,Zambia,Zambia,False
+2012-06-16,South Africa,Zambia,2,1,African Championship qualification,South Africa,South Africa,False
+2012-06-16,Switzerland,Spain,4,3,UEFA Euro qualification,Aarau,Switzerland,False
+2012-06-21,Spain,Turkey,4,0,UEFA Euro qualification,Madrid,Spain,False
+2012-09-19,Spain,Romania,0,0,UEFA Euro qualification,Madrid,Spain,False
+2012-10-20,Scotland,Spain,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+2012-10-24,Spain,Scotland,3,2,UEFA Euro qualification,Madrid,Spain,False
+2013-07-12,England,Spain,2,3,UEFA Euro,Linköping,Sweden,True
+2013-07-15,Spain,France,0,1,UEFA Euro,Norrköping,Sweden,True
+2013-07-18,Russia,Spain,1,1,UEFA Euro,Norrköping,Sweden,True
+2013-07-22,Norway,Spain,3,1,UEFA Euro,Kalmar,Sweden,True
+2014-02-14,Zambia,Tanzania,2,1,African Championship qualification,Lusaka,Zambia,False
+2014-02-28,Tanzania,Zambia,1,1,African Championship qualification,Dar es Salaam,Tanzania,False
+2014-05-25,Zimbabwe,Zambia,0,1,African Championship qualification,Harare,Zimbabwe,False
+2014-06-08,Zambia,Zimbabwe,1,0,African Championship qualification,Lusaka,Zambia,False
+2014-10-11,Namibia,Zambia,2,0,African Championship,Windhoek,Namibia,False
+2014-10-14,Zambia,Nigeria,0,6,African Championship,Windhoek,Namibia,True
+2014-10-17,Zambia,Ivory Coast,1,1,African Championship,Windhoek,Namibia,True
+2015-06-09,Spain,Costa Rica,1,1,FIFA World Cup,Montreal,Canada,True
+2015-06-13,Brazil,Spain,1,0,FIFA World Cup,Montreal,Canada,True
+2015-06-17,South Korea,Spain,2,1,FIFA World Cup,Ottawa,Canada,True
+2015-10-27,Finland,Spain,1,2,UEFA Euro qualification,Helsinki,Finland,False
+2015-11-26,Republic of Ireland,Spain,0,3,UEFA Euro qualification,Dublin,Republic of Ireland,False
+2015-12-01,Spain,Portugal,2,0,UEFA Euro qualification,Badajoz,Spain,False
+2016-01-24,Montenegro,Spain,0,7,UEFA Euro qualification,Petrovac,Montenegro,False
+2016-03-06,Zambia,Namibia,3,1,African Championship qualification,Lusaka,Zambia,False
+2016-03-18,Namibia,Zambia,2,2,African Championship qualification,Windhoek,Namibia,False
+2016-04-06,Zimbabwe,Zambia,1,0,African Championship qualification,Harare,Zimbabwe,False
+2016-04-08,Portugal,Spain,1,4,UEFA Euro qualification,Covilhã,Portugal,False
+2016-04-10,Zambia,Zimbabwe,2,3,African Championship qualification,Lusaka,Zambia,False
+2016-04-12,Spain,Republic of Ireland,3,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,False
+2016-09-15,Spain,Montenegro,13,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,False
+2016-09-20,Spain,Finland,5,0,UEFA Euro qualification,Leganés,Spain,False
+2017-03-01,Japan,Spain,1,2,Algarve Cup,Parchal,Portugal,True
+2017-03-03,Spain,Norway,3,0,Algarve Cup,Estádio Algarve,Portugal,True
+2017-03-06,Iceland,Spain,0,0,Algarve Cup,Vila Real de Santo António,Portugal,True
+2017-03-08,Spain,Canada,1,0,Algarve Cup,Estádio Algarve,Portugal,True
+2017-07-19,Spain,Portugal,2,0,UEFA Euro,Doetinchem,Netherlands,True
+2017-07-23,England,Spain,2,0,UEFA Euro,Breda,Netherlands,True
+2017-07-27,Scotland,Spain,1,0,UEFA Euro,Deventer,Netherlands,True
+2017-07-30,Austria,Spain,0,0,UEFA Euro,Tilburg,Netherlands,True
+2017-10-23,Israel,Spain,0,6,FIFA World Cup qualification,Ramat Gan,Israel,False
+2017-11-24,Serbia,Spain,1,2,FIFA World Cup qualification,Belgrade,Serbia,False
+2017-11-28,Spain,Austria,4,0,FIFA World Cup qualification,Palma,Spain,False
+2018-02-28,Austria,Spain,0,2,Cyprus Cup,Larnaca,Cyprus,True
+2018-03-02,Spain,Belgium,0,0,Cyprus Cup,Larnaca,Cyprus,True
+2018-03-05,Spain,Czech Republic,2,0,Cyprus Cup,Larnaca,Cyprus,True
+2018-03-07,Italy,Spain,0,2,Cyprus Cup,Larnaca,Cyprus,True
+2018-04-04,Tanzania,Zambia,3,3,African Championship qualification,Dar es Salaam,Tanzania,False
+2018-04-06,Finland,Spain,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+2018-04-08,Zambia,Tanzania,1,1,African Championship qualification,Lusaka,Zambia,False
+2018-04-10,Austria,Spain,0,1,FIFA World Cup qualification,Maria Enzersdorf,Austria,False
+2018-06-06,Zambia,Zimbabwe,0,1,African Championship qualification,Lusaka,Zambia,False
+2018-06-07,Spain,Israel,2,0,FIFA World Cup qualification,Murcia,Spain,False
+2018-06-10,Zimbabwe,Zambia,1,2,African Championship qualification,Harare,Zimbabwe,False
+2018-08-31,Spain,Finland,5,1,FIFA World Cup qualification,Santander,Spain,False
+2018-09-04,Spain,Serbia,3,0,FIFA World Cup qualification,Logroño,Spain,False
+2018-11-18,Zambia,Equatorial Guinea,5,0,African Cup of Nations,Cape Coast,Ghana,True
+2018-11-21,Nigeria,Zambia,4,0,African Cup of Nations,Cape Coast,Ghana,True
+2018-11-24,South Africa,Zambia,1,1,African Cup of Nations,Accra,Ghana,True
+2019-01-23,Spain,United States,0,1,Friendly,Alicante,Spain,False
+2019-02-27,Spain,Netherlands,2,0,Algarve Cup,Parchal,Portugal,True
+2019-03-01,Poland,Spain,3,0,Algarve Cup,Lagos,Portugal,True
+2019-03-06,Switzerland,Spain,0,2,Algarve Cup,Albufeira,Portugal,True
+2019-06-08,Spain,South Africa,3,1,FIFA World Cup,Le Havre,France,True
+2019-06-12,Germany,Spain,1,0,FIFA World Cup,Valenciennes,France,True
+2019-06-17,China PR,Spain,0,0,FIFA World Cup,Le Havre,France,True
+2019-06-24,Spain,United States,1,2,FIFA World Cup,Reims,France,True
+2019-10-04,Spain,Azerbaijan,4,0,UEFA Euro qualification,A Coruña,Spain,False
+2019-10-08,Czech Republic,Spain,1,5,UEFA Euro qualification,Prague,Czech Republic,False
+2019-12-20,Poland,Spain,0,0,UEFA Euro qualification,Lublin,Poland,False
+2020-03-05,Spain,Japan,3,1,SheBelieves Cup,Orlando,United States,True
+2020-03-08,United States,Spain,1,0,SheBelieves Cup,Harrison,United States,False
+2020-03-11,England,Spain,0,1,SheBelieves Cup,Frisco,United States,True
+2020-09-19,Moldova,Spain,0,9,UEFA Euro qualification,Chișinău,Moldova,False
+2020-10-23,Spain,Czech Republic,4,0,UEFA Euro qualification,Seville,Spain,False
+2020-11-27,Spain,Moldova,10,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,False
+2021-02-18,Azerbaijan,Spain,0,13,UEFA Euro qualification,Baku,Azerbaijan,False
+2021-02-23,Spain,Poland,3,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,False
+2021-09-16,Faroe Islands,Spain,0,10,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2021-09-21,Hungary,Spain,0,7,FIFA World Cup qualification,Budapest,Hungary,False
+2021-10-20,Malawi,Zambia,1,1,African Cup of Nations qualification,Lilongwe,Malawi,False
+2021-10-26,Zambia,Malawi,3,2,African Cup of Nations qualification,Lusaka,Zambia,False
+2021-10-26,Ukraine,Spain,0,6,FIFA World Cup qualification,Kovalivka,Ukraine,False
+2021-11-25,Spain,Faroe Islands,12,0,FIFA World Cup qualification,Seville,Spain,False
+2021-11-30,Spain,Scotland,8,0,FIFA World Cup qualification,Seville,Spain,False
+2022-02-16,Zambia,Namibia,0,0,African Cup of Nations qualification,Lusaka,Zambia,False
+2022-02-17,Germany,Spain,1,1,Arnold Clark Cup,Middlesbrough,England,True
+2022-02-20,England,Spain,0,0,Arnold Clark Cup,Norwich,England,False
+2022-02-22,Namibia,Zambia,1,1,African Cup of Nations qualification,Johannesburg,South Africa,True
+2022-02-23,Spain,Canada,1,0,Arnold Clark Cup,Wolverhampton,England,True
+2022-04-12,Scotland,Spain,0,2,FIFA World Cup qualification,Glasgow,Scotland,False
+2022-07-03,Cameroon,Zambia,0,0,African Cup of Nations,Casablanca,Morocco,True
+2022-07-06,Zambia,Tunisia,1,0,African Cup of Nations,Casablanca,Morocco,True
+2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,England,True
+2022-07-09,Zambia,Togo,4,1,African Cup of Nations,Rabat,Morocco,True
+2022-07-12,Germany,Spain,2,0,UEFA Euro,London,England,True
+2022-07-13,Zambia,Senegal,1,1,African Cup of Nations,Casablanca,Morocco,True
+2022-07-16,Denmark,Spain,0,1,UEFA Euro,London,England,True
+2022-07-18,Zambia,South Africa,0,1,African Cup of Nations,Casablanca,Morocco,True
+2022-07-20,England,Spain,2,1,UEFA Euro,Brighton and Hove,England,False
+2022-07-22,Nigeria,Zambia,0,1,African Cup of Nations,Casablanca,Morocco,True
+2022-09-02,Spain,Hungary,3,0,FIFA World Cup qualification,Las Rozas de Madrid,Spain,False
+2022-09-06,Spain,Ukraine,5,0,FIFA World Cup qualification,Las Rozas de Madrid,Spain,False
+2023-02-16,Spain,Jamaica,3,0,Cup of Nations,Gosford,Australia,True
+2023-02-18,Zambia,Slovenia,0,1,Turkish Women's Cup,Alanya,Turkey,True
+2023-02-19,Australia,Spain,3,2,Cup of Nations,Sydney,Australia,False
+2023-02-21,Uzbekistan,Zambia,0,4,Turkish Women's Cup,Alanya,Turkey,True
+2023-02-22,Czech Republic,Spain,0,3,Cup of Nations,Newcastle,Australia,True
