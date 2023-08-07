@@ -1,6 +1,5 @@
-![Foto](Imagenes/Portada.jpeg)
-
 # ETL Project: Fifa Women's World Cup: Spain vs. Zambia
+                  ![Foto](Imagenes/Portada.jpeg)
 
 ## Primera fuente: Relevo Deportes
 
