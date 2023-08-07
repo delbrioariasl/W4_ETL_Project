@@ -28,3 +28,7 @@ El dataset de Kaggle incluia la historia de todos los partidos disputados desde 
 ![Foto](Imagenes/zamb_sp_hist.png)
 
 Los resultados de esto han dejado ver que este era el primer partido de competición oficial de la historia del futbol entre España y Zambia.
+
+## Hacer la Base de Datos:
+Tras tener toda la información y haberla importado a documentos csv para archivarla, procedí a crear la base de datos en sql con la siguiente estructura para despues insertar los datos y acabar el proyecto:
+![Foto](SQL_database/Modelo entidad relación.png)
