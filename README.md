@@ -41,3 +41,12 @@ Los resultados de esto han dejado ver que este era el primer partido de competic
 Tras tener toda la información y haberla importado a documentos csv para archivarla, procedí a crear la base de datos en sql con la siguiente estructura para despues insertar los datos y acabar el proyecto:
 
 ![Foto](https://github.com/delbrioariasl/W4_ETL_Project/blob/main/SQL_database/Modelo%20entidad%20relaci%C3%B3n.png)
+
+Para comprobar la funcionalidad de la base de datos creada realicé dos consultas:
+1. Estadisticas del partido de España vs Zambia
+select * from stats_spain_vs_zambia where partidos_equipos_idEquipo = 1;
+![Foto](Imagenes/query1.png)
+
+2. Resultado partido de España - Zambia:
+select result from partidos where equipos_idEquipo in (1,2);
+![Foto](Imagenes/query2.png)
