@@ -45,8 +45,10 @@ Tras tener toda la información y haberla importado a documentos csv para archiv
 Para comprobar la funcionalidad de la base de datos creada realicé dos consultas:
 1. Estadisticas del partido de España vs Zambia
 select * from stats_spain_vs_zambia where partidos_equipos_idEquipo = 1;
+
 ![Foto](Imagenes/query1.png)
 
 2. Resultado partido de España - Zambia:
 select result from partidos where equipos_idEquipo in (1,2);
+
 ![Foto](Imagenes/query2.png)
